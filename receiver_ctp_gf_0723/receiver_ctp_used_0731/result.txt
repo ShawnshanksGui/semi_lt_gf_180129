@@ -1,0 +1,902 @@
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 77,  input_symbol = 40
+the redundancy == 0.925000
+num_sent = 165,  input_symbol = 80
+the redundancy == 1.062500
+num_sent = 182,  input_symbol = 88
+the redundancy == 1.068182
+num_sent = 190,  input_symbol = 96
+the redundancy == 0.979167
+num_sent = 276,  input_symbol = 120
+the redundancy == 1.300000
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 74,  input_symbol = 40
+the redundancy == 0.850000
+num_sent = 182,  input_symbol = 80
+the redundancy == 1.275000
+num_sent = 153,  input_symbol = 88
+the redundancy == 0.738636
+num_sent = 242,  input_symbol = 96
+the redundancy == 1.520833
+num_sent = 273,  input_symbol = 120
+the redundancy == 1.275000
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 54,  input_symbol = 40
+the redundancy == 0.350000
+num_sent = 161,  input_symbol = 80
+the redundancy == 1.012500
+num_sent = 170,  input_symbol = 88
+the redundancy == 0.931818
+num_sent = 231,  input_symbol = 96
+the redundancy == 1.406250
+num_sent = 270,  input_symbol = 120
+the redundancy == 1.250000
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 64,  input_symbol = 40
+the redundancy == 0.600000
+num_sent = 170,  input_symbol = 80
+the redundancy == 1.125000
+num_sent = 200,  input_symbol = 88
+the redundancy == 1.272727
+num_sent = 243,  input_symbol = 96
+the redundancy == 1.531250
+num_sent = 250,  input_symbol = 120
+the redundancy == 1.083333
+semi-random edition!!!!!!!!!!!!!!:
+num_sent = 41,  input_symbol = 40
+the redundancy == 0.025000
+num_sent = 82,  input_symbol = 80
+the redundancy == 0.025000
+num_sent = 97,  input_symbol = 88
+the redundancy == 0.102273
+num_sent = 105,  input_symbol = 96
+the redundancy == 0.093750
+num_sent = 128,  input_symbol = 120
+the redundancy == 0.066667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 130,  input_symbol = 120
+the redundancy == 0.083333
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 134,  input_symbol = 120
+the redundancy == 0.116667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 1,  input_symbol = 120
+the redundancy == -0.991667
+num_sent = 146,  input_symbol = 120
+the redundancy == 0.216667
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 101,  input_symbol = 40
+the redundancy == 1.525000
+num_sent = 85,  input_symbol = 40
+the redundancy == 1.125000
+num_sent = 299,  input_symbol = 80
+the redundancy == 2.737500
+num_sent = 197,  input_symbol = 80
+the redundancy == 1.462500
+num_sent = 319,  input_symbol = 88
+the redundancy == 2.625000
+num_sent = 179,  input_symbol = 88
+the redundancy == 1.034091
+num_sent = 207,  input_symbol = 96
+the redundancy == 1.156250
+num_sent = 225,  input_symbol = 96
+the redundancy == 1.343750
+num_sent = 489,  input_symbol = 120
+the redundancy == 3.075000
+num_sent = 226,  input_symbol = 120
+the redundancy == 0.883333
+num_sent = 327,  input_symbol = 120
+the redundancy == 1.725000
+num_sent = 259,  input_symbol = 120
+the redundancy == 1.158333
+num_sent = 403,  input_symbol = 120
+the redundancy == 2.358333
+num_sent = 227,  input_symbol = 120
+the redundancy == 0.891667
+num_sent = 329,  input_symbol = 120
+the redundancy == 1.741667
+num_sent = 285,  input_symbol = 120
+the redundancy == 1.375000
+num_sent = 448,  input_symbol = 120
+the redundancy == 2.733333
+num_sent = 264,  input_symbol = 120
+the redundancy == 1.200000
+num_sent = 397,  input_symbol = 120
+the redundancy == 2.308333
+num_sent = 255,  input_symbol = 120
+the redundancy == 1.125000
+num_sent = 314,  input_symbol = 120
+the redundancy == 1.616667
+num_sent = 281,  input_symbol = 120
+the redundancy == 1.341667
+num_sent = 292,  input_symbol = 120
+the redundancy == 1.433333
+num_sent = 435,  input_symbol = 120
+the redundancy == 2.625000
+num_sent = 365,  input_symbol = 120
+the redundancy == 2.041667
+num_sent = 261,  input_symbol = 120
+the redundancy == 1.175000
+num_sent = 312,  input_symbol = 120
+the redundancy == 1.600000
+num_sent = 185,  input_symbol = 120
+the redundancy == 0.541667
+num_sent = 486,  input_symbol = 120
+the redundancy == 3.050000
+num_sent = 240,  input_symbol = 120
+the redundancy == 1.000000
+num_sent = 296,  input_symbol = 120
+the redundancy == 1.466667
+num_sent = 287,  input_symbol = 120
+the redundancy == 1.391667
+num_sent = 351,  input_symbol = 120
+the redundancy == 1.925000
+num_sent = 238,  input_symbol = 120
+the redundancy == 0.983333
+num_sent = 240,  input_symbol = 120
+the redundancy == 1.000000
+num_sent = 278,  input_symbol = 120
+the redundancy == 1.316667
+num_sent = 390,  input_symbol = 120
+the redundancy == 2.250000
+num_sent = 300,  input_symbol = 120
+the redundancy == 1.500000
+num_sent = 344,  input_symbol = 120
+the redundancy == 1.866667
+num_sent = 263,  input_symbol = 120
+the redundancy == 1.191667
+num_sent = 344,  input_symbol = 120
+the redundancy == 1.866667
+num_sent = 263,  input_symbol = 120
+the redundancy == 1.191667
+num_sent = 435,  input_symbol = 120
+the redundancy == 2.625000
+num_sent = 296,  input_symbol = 120
+the redundancy == 1.466667
+num_sent = 389,  input_symbol = 120
+the redundancy == 2.241667
+num_sent = 239,  input_symbol = 120
+the redundancy == 0.991667
+num_sent = 389,  input_symbol = 120
+the redundancy == 2.241667
+num_sent = 239,  input_symbol = 120
+the redundancy == 0.991667
+num_sent = 404,  input_symbol = 120
+the redundancy == 2.366667
+num_sent = 270,  input_symbol = 120
+the redundancy == 1.250000
+num_sent = 328,  input_symbol = 120
+the redundancy == 1.733333
+num_sent = 375,  input_symbol = 120
+the redundancy == 2.125000
+num_sent = 365,  input_symbol = 120
+the redundancy == 2.041667
+num_sent = 384,  input_symbol = 120
+the redundancy == 2.200000
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 185,  input_symbol = 40
+the redundancy == 3.625000
+num_sent = 89,  input_symbol = 40
+the redundancy == 1.225000
+num_sent = 266,  input_symbol = 80
+the redundancy == 2.325000
+num_sent = 219,  input_symbol = 80
+the redundancy == 1.737500
+num_sent = 254,  input_symbol = 88
+the redundancy == 1.886364
+num_sent = 278,  input_symbol = 88
+the redundancy == 2.159091
+num_sent = 344,  input_symbol = 96
+the redundancy == 2.583333
+num_sent = 202,  input_symbol = 96
+the redundancy == 1.104167
+num_sent = 362,  input_symbol = 120
+the redundancy == 2.016667
+num_sent = 257,  input_symbol = 120
+the redundancy == 1.141667
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 128,  input_symbol = 40
+the redundancy == 2.200000
+num_sent = 212,  input_symbol = 80
+the redundancy == 1.650000
+num_sent = 325,  input_symbol = 88
+the redundancy == 2.693182
+num_sent = 171,  input_symbol = 96
+the redundancy == 0.781250
+num_sent = 244,  input_symbol = 120
+the redundancy == 1.033333
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 86,  input_symbol = 40
+the redundancy == 1.150000
+num_sent = 218,  input_symbol = 80
+the redundancy == 1.725000
+num_sent = 215,  input_symbol = 88
+the redundancy == 1.443182
+num_sent = 138,  input_symbol = 96
+the redundancy == 0.437500
+num_sent = 274,  input_symbol = 120
+the redundancy == 1.283333
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 118,  input_symbol = 40
+the redundancy == 1.950000
+num_sent = 183,  input_symbol = 80
+the redundancy == 1.287500
+num_sent = 204,  input_symbol = 88
+the redundancy == 1.318182
+num_sent = 286,  input_symbol = 96
+the redundancy == 1.979167
+num_sent = 153,  input_symbol = 120
+the redundancy == 0.275000
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 141,  input_symbol = 40
+the redundancy == 2.525000
+num_sent = 242,  input_symbol = 80
+the redundancy == 2.025000
+num_sent = 240,  input_symbol = 88
+the redundancy == 1.727273
+num_sent = 164,  input_symbol = 96
+the redundancy == 0.708333
+num_sent = 315,  input_symbol = 120
+the redundancy == 1.625000
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 84,  input_symbol = 40
+the redundancy == 1.100000
+num_sent = 218,  input_symbol = 80
+the redundancy == 1.725000
+num_sent = 224,  input_symbol = 88
+the redundancy == 1.545455
+num_sent = 194,  input_symbol = 96
+the redundancy == 1.020833
+num_sent = 349,  input_symbol = 120
+the redundancy == 1.908333
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 117,  input_symbol = 40
+the redundancy == 1.925000
+num_sent = 179,  input_symbol = 80
+the redundancy == 1.237500
+num_sent = 416,  input_symbol = 88
+the redundancy == 3.727273
+num_sent = 211,  input_symbol = 96
+the redundancy == 1.197917
+num_sent = 189,  input_symbol = 120
+the redundancy == 0.575000
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 98,  input_symbol = 40
+the redundancy == 1.450000
+num_sent = 212,  input_symbol = 80
+the redundancy == 1.650000
+num_sent = 296,  input_symbol = 88
+the redundancy == 2.363636
+num_sent = 166,  input_symbol = 96
+the redundancy == 0.729167
+num_sent = 464,  input_symbol = 120
+the redundancy == 2.866667
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 87,  input_symbol = 40
+the redundancy == 1.175000
+num_sent = 144,  input_symbol = 80
+the redundancy == 0.800000
+num_sent = 162,  input_symbol = 88
+the redundancy == 0.840909
+num_sent = 149,  input_symbol = 96
+the redundancy == 0.552083
+num_sent = 200,  input_symbol = 120
+the redundancy == 0.666667
+semi-random edition!!!!!!!!!!!!!!:
+num_sent = 42,  input_symbol = 40
+the redundancy == 0.050000
+num_sent = 87,  input_symbol = 80
+the redundancy == 0.087500
+num_sent = 91,  input_symbol = 88
+the redundancy == 0.034091
+num_sent = 105,  input_symbol = 96
+the redundancy == 0.093750
+num_sent = 139,  input_symbol = 120
+the redundancy == 0.158333
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 97,  input_symbol = 40
+the redundancy == 1.425000
+num_sent = 164,  input_symbol = 80
+the redundancy == 1.050000
+num_sent = 228,  input_symbol = 88
+the redundancy == 1.590909
+num_sent = 243,  input_symbol = 96
+the redundancy == 1.531250
+num_sent = 339,  input_symbol = 120
+the redundancy == 1.825000
+semi-random edition!!!!!!!!!!!!!!:
+num_sent = 40,  input_symbol = 40
+the redundancy == 0.000000
+num_sent = 88,  input_symbol = 80
+the redundancy == 0.100000
+num_sent = 97,  input_symbol = 88
+the redundancy == 0.102273
+num_sent = 104,  input_symbol = 96
+the redundancy == 0.083333
+num_sent = 141,  input_symbol = 120
+the redundancy == 0.175000
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 150,  input_symbol = 40
+the redundancy == 2.750000
+num_sent = 237,  input_symbol = 80
+the redundancy == 1.962500
+num_sent = 288,  input_symbol = 88
+the redundancy == 2.272727
+num_sent = 168,  input_symbol = 96
+the redundancy == 0.750000
+num_sent = 206,  input_symbol = 120
+the redundancy == 0.716667
+semi-random edition!!!!!!!!!!!!!!:
+num_sent = 42,  input_symbol = 40
+the redundancy == 0.050000
+num_sent = 86,  input_symbol = 80
+the redundancy == 0.075000
+num_sent = 97,  input_symbol = 88
+the redundancy == 0.102273
+num_sent = 110,  input_symbol = 96
+the redundancy == 0.145833
+num_sent = 130,  input_symbol = 120
+the redundancy == 0.083333
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 99,  input_symbol = 40
+the redundancy == 1.475000
+num_sent = 105,  input_symbol = 40
+the redundancy == 1.625000
+num_sent = 290,  input_symbol = 80
+the redundancy == 2.625000
+num_sent = 217,  input_symbol = 80
+the redundancy == 1.712500
+num_sent = 294,  input_symbol = 88
+the redundancy == 2.340909
+num_sent = 195,  input_symbol = 88
+the redundancy == 1.215909
+num_sent = 524,  input_symbol = 96
+the redundancy == 4.458333
+num_sent = 192,  input_symbol = 96
+the redundancy == 1.000000
+num_sent = 659,  input_symbol = 120
+the redundancy == 4.491667
+num_sent = 280,  input_symbol = 120
+the redundancy == 1.333333
+semi-random edition!!!!!!!!!!!!!!:
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 130,  input_symbol = 40
+the redundancy == 2.250000
+num_sent = 260,  input_symbol = 80
+the redundancy == 2.250000
+num_sent = 257,  input_symbol = 88
+the redundancy == 1.920455
+num_sent = 248,  input_symbol = 96
+the redundancy == 1.583333
+num_sent = 373,  input_symbol = 120
+the redundancy == 2.108333
+semi-random edition!!!!!!!!!!!!!!:
+num_sent = 44,  input_symbol = 40
+the redundancy == 0.100000
+num_sent = 93,  input_symbol = 80
+the redundancy == 0.162500
+num_sent = 98,  input_symbol = 88
+the redundancy == 0.113636
+num_sent = 105,  input_symbol = 96
+the redundancy == 0.093750
+num_sent = 130,  input_symbol = 120
+the redundancy == 0.083333
+semi-random edition!!!!!!!!!!!!!!:
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 162,  input_symbol = 40
+the redundancy == 3.050000
+num_sent = 169,  input_symbol = 40
+the redundancy == 3.225000
+num_sent = 757,  input_symbol = 80
+the redundancy == 8.462500
+num_sent = 509,  input_symbol = 80
+the redundancy == 5.362500
+num_sent = 690,  input_symbol = 88
+the redundancy == 6.840909
+num_sent = 530,  input_symbol = 88
+the redundancy == 5.022727
+num_sent = 681,  input_symbol = 96
+the redundancy == 6.093750
+num_sent = 625,  input_symbol = 96
+the redundancy == 5.510417
+num_sent = 962,  input_symbol = 120
+the redundancy == 7.016667
+num_sent = 951,  input_symbol = 120
+the redundancy == 6.925000
+semi-random edition!!!!!!!!!!!!!!:
+num_sent = 1200,  input_symbol = 40
+the redundancy == 29.000000
+num_sent = 40,  input_symbol = 40
+the redundancy == 0.000000
+num_sent = 1200,  input_symbol = 40
+the redundancy == 29.000000
+num_sent = 42,  input_symbol = 40
+the redundancy == 0.050000
+num_sent = 1200,  input_symbol = 40
+the redundancy == 29.000000
+num_sent = 43,  input_symbol = 40
+the redundancy == 0.075000
+num_sent = 42,  input_symbol = 40
+the redundancy == 0.050000
+num_sent = 43,  input_symbol = 40
+the redundancy == 0.075000
+num_sent = 45,  input_symbol = 40
+the redundancy == 0.125000
+num_sent = 42,  input_symbol = 40
+the redundancy == 0.050000
+num_sent = 46,  input_symbol = 40
+the redundancy == 0.150000
+num_sent = 41,  input_symbol = 40
+the redundancy == 0.025000
+num_sent = 40,  input_symbol = 40
+the redundancy == 0.000000
+num_sent = 43,  input_symbol = 40
+the redundancy == 0.075000
+num_sent = 45,  input_symbol = 40
+the redundancy == 0.125000
+num_sent = 50,  input_symbol = 40
+the redundancy == 0.250000
+num_sent = 46,  input_symbol = 40
+the redundancy == 0.150000
+num_sent = 46,  input_symbol = 40
+the redundancy == 0.150000
+num_sent = 40,  input_symbol = 40
+the redundancy == 0.000000
+num_sent = 41,  input_symbol = 40
+the redundancy == 0.025000
+num_sent = 44,  input_symbol = 40
+the redundancy == 0.100000
+num_sent = 42,  input_symbol = 40
+the redundancy == 0.050000
+num_sent = 42,  input_symbol = 40
+the redundancy == 0.050000
+num_sent = 45,  input_symbol = 40
+the redundancy == 0.125000
+num_sent = 43,  input_symbol = 40
+the redundancy == 0.075000
+num_sent = 43,  input_symbol = 40
+the redundancy == 0.075000
+num_sent = 43,  input_symbol = 40
+the redundancy == 0.075000
+num_sent = 43,  input_symbol = 40
+the redundancy == 0.075000
+num_sent = 66,  input_symbol = 40
+the redundancy == 0.650000
+num_sent = 43,  input_symbol = 40
+the redundancy == 0.075000
+num_sent = 76,  input_symbol = 40
+the redundancy == 0.900000
+num_sent = 45,  input_symbol = 40
+the redundancy == 0.125000
+num_sent = 76,  input_symbol = 40
+the redundancy == 0.900000
+num_sent = 45,  input_symbol = 40
+the redundancy == 0.125000
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 41,  input_symbol = 40
+the redundancy == 0.025000
+num_sent = 48,  input_symbol = 40
+the redundancy == 0.200000
+num_sent = 41,  input_symbol = 40
+the redundancy == 0.025000
+num_sent = 45,  input_symbol = 40
+the redundancy == 0.125000
+num_sent = 41,  input_symbol = 40
+the redundancy == 0.025000
+num_sent = 45,  input_symbol = 40
+the redundancy == 0.125000
+num_sent = 42,  input_symbol = 40
+the redundancy == 0.050000
+num_sent = 44,  input_symbol = 40
+the redundancy == 0.100000
+num_sent = 42,  input_symbol = 40
+the redundancy == 0.050000
+num_sent = 44,  input_symbol = 40
+the redundancy == 0.100000
+semi-random edition!!!!!!!!!!!!!!:
+num_sent = 43,  input_symbol = 40
+the redundancy == 0.075000
+num_sent = 43,  input_symbol = 40
+the redundancy == 0.075000
+num_sent = 43,  input_symbol = 40
+the redundancy == 0.075000
+num_sent = 43,  input_symbol = 40
+the redundancy == 0.075000
+num_sent = 40,  input_symbol = 40
+the redundancy == 0.000000
+num_sent = 41,  input_symbol = 40
+the redundancy == 0.025000
+num_sent = 40,  input_symbol = 40
+the redundancy == 0.000000
+num_sent = 41,  input_symbol = 40
+the redundancy == 0.025000
+num_sent = 44,  input_symbol = 40
+the redundancy == 0.100000
+num_sent = 40,  input_symbol = 40
+the redundancy == 0.000000
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 319,  input_symbol = 40
+the redundancy == 6.975000
+num_sent = 195,  input_symbol = 40
+the redundancy == 3.875000
+num_sent = 623,  input_symbol = 80
+the redundancy == 6.787500
+num_sent = 552,  input_symbol = 80
+the redundancy == 5.900000
+num_sent = 650,  input_symbol = 88
+the redundancy == 6.386364
+num_sent = 492,  input_symbol = 88
+the redundancy == 4.590909
+num_sent = 613,  input_symbol = 96
+the redundancy == 5.385417
+num_sent = 598,  input_symbol = 96
+the redundancy == 5.229167
+num_sent = 942,  input_symbol = 120
+the redundancy == 6.850000
+num_sent = 1119,  input_symbol = 120
+the redundancy == 8.325000
+semi-random edition!!!!!!!!!!!!!!:
+num_sent = 40,  input_symbol = 40
+the redundancy == 0.000000
+num_sent = 43,  input_symbol = 40
+the redundancy == 0.075000
+num_sent = 88,  input_symbol = 80
+the redundancy == 0.100000
+num_sent = 89,  input_symbol = 80
+the redundancy == 0.112500
+num_sent = 93,  input_symbol = 88
+the redundancy == 0.056818
+num_sent = 95,  input_symbol = 88
+the redundancy == 0.079545
+num_sent = 105,  input_symbol = 96
+the redundancy == 0.093750
+num_sent = 104,  input_symbol = 96
+the redundancy == 0.083333
+num_sent = 129,  input_symbol = 120
+the redundancy == 0.075000
+num_sent = 128,  input_symbol = 120
+the redundancy == 0.066667
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 280,  input_symbol = 40
+the redundancy == 6.000000
+num_sent = 317,  input_symbol = 40
+the redundancy == 6.925000
+num_sent = 555,  input_symbol = 80
+the redundancy == 5.937500
+num_sent = 636,  input_symbol = 80
+the redundancy == 6.950000
+num_sent = 493,  input_symbol = 88
+the redundancy == 4.602273
+num_sent = 601,  input_symbol = 88
+the redundancy == 5.829545
+num_sent = 622,  input_symbol = 96
+the redundancy == 5.479167
+num_sent = 656,  input_symbol = 96
+the redundancy == 5.833333
+num_sent = 1150,  input_symbol = 120
+the redundancy == 8.583333
+num_sent = 965,  input_symbol = 120
+the redundancy == 7.041667
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 162,  input_symbol = 40
+the redundancy == 3.050000
+num_sent = 160,  input_symbol = 40
+the redundancy == 3.000000
+num_sent = 713,  input_symbol = 80
+the redundancy == 7.912500
+num_sent = 534,  input_symbol = 80
+the redundancy == 5.675000
+num_sent = 531,  input_symbol = 88
+the redundancy == 5.034091
+num_sent = 619,  input_symbol = 88
+the redundancy == 6.034091
+num_sent = 702,  input_symbol = 96
+the redundancy == 6.312500
+num_sent = 665,  input_symbol = 96
+the redundancy == 5.927083
+num_sent = 858,  input_symbol = 120
+the redundancy == 6.150000
+num_sent = 835,  input_symbol = 120
+the redundancy == 5.958333
+semi-random edition!!!!!!!!!!!!!!:
+num_sent = 43,  input_symbol = 40
+the redundancy == 0.075000
+num_sent = 50,  input_symbol = 40
+the redundancy == 0.250000
+num_sent = 88,  input_symbol = 80
+the redundancy == 0.100000
+num_sent = 90,  input_symbol = 80
+the redundancy == 0.125000
+num_sent = 96,  input_symbol = 88
+the redundancy == 0.090909
+num_sent = 95,  input_symbol = 88
+the redundancy == 0.079545
+num_sent = 107,  input_symbol = 96
+the redundancy == 0.114583
+num_sent = 116,  input_symbol = 96
+the redundancy == 0.208333
+num_sent = 135,  input_symbol = 120
+the redundancy == 0.125000
+num_sent = 132,  input_symbol = 120
+the redundancy == 0.100000
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 168,  input_symbol = 40
+the redundancy == 3.200000
+num_sent = 165,  input_symbol = 40
+the redundancy == 3.125000
+num_sent = 484,  input_symbol = 80
+the redundancy == 5.050000
+num_sent = 528,  input_symbol = 80
+the redundancy == 5.600000
+num_sent = 617,  input_symbol = 88
+the redundancy == 6.011364
+num_sent = 794,  input_symbol = 88
+the redundancy == 8.022727
+num_sent = 677,  input_symbol = 96
+the redundancy == 6.052083
+num_sent = 663,  input_symbol = 96
+the redundancy == 5.906250
+num_sent = 866,  input_symbol = 120
+the redundancy == 6.216667
+num_sent = 882,  input_symbol = 120
+the redundancy == 6.350000
+semi-random edition!!!!!!!!!!!!!!:
+num_sent = 43,  input_symbol = 40
+the redundancy == 0.075000
+num_sent = 43,  input_symbol = 40
+the redundancy == 0.075000
+num_sent = 86,  input_symbol = 80
+the redundancy == 0.075000
+num_sent = 84,  input_symbol = 80
+the redundancy == 0.050000
+num_sent = 99,  input_symbol = 88
+the redundancy == 0.125000
+num_sent = 97,  input_symbol = 88
+the redundancy == 0.102273
+num_sent = 111,  input_symbol = 96
+the redundancy == 0.156250
+num_sent = 107,  input_symbol = 96
+the redundancy == 0.114583
+num_sent = 146,  input_symbol = 120
+the redundancy == 0.216667
+num_sent = 149,  input_symbol = 120
+the redundancy == 0.241667
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 187,  input_symbol = 40
+the redundancy == 3.675000
+num_sent = 183,  input_symbol = 40
+the redundancy == 3.575000
+num_sent = 592,  input_symbol = 80
+the redundancy == 6.400000
+num_sent = 610,  input_symbol = 80
+the redundancy == 6.625000
+num_sent = 572,  input_symbol = 88
+the redundancy == 5.500000
+num_sent = 442,  input_symbol = 88
+the redundancy == 4.022727
+num_sent = 556,  input_symbol = 96
+the redundancy == 4.791667
+num_sent = 674,  input_symbol = 96
+the redundancy == 6.020833
+num_sent = 754,  input_symbol = 120
+the redundancy == 5.283333
+num_sent = 895,  input_symbol = 120
+the redundancy == 6.458333
+semi-random edition!!!!!!!!!!!!!!:
+num_sent = 47,  input_symbol = 40
+the redundancy == 0.175000
+num_sent = 48,  input_symbol = 40
+the redundancy == 0.200000
+num_sent = 92,  input_symbol = 80
+the redundancy == 0.150000
+num_sent = 88,  input_symbol = 80
+the redundancy == 0.100000
+num_sent = 104,  input_symbol = 88
+the redundancy == 0.181818
+num_sent = 98,  input_symbol = 88
+the redundancy == 0.113636
+num_sent = 102,  input_symbol = 96
+the redundancy == 0.062500
+num_sent = 105,  input_symbol = 96
+the redundancy == 0.093750
+num_sent = 139,  input_symbol = 120
+the redundancy == 0.158333
+num_sent = 127,  input_symbol = 120
+the redundancy == 0.058333
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 174,  input_symbol = 40
+the redundancy == 3.350000
+num_sent = 211,  input_symbol = 40
+the redundancy == 4.275000
+num_sent = 534,  input_symbol = 80
+the redundancy == 5.675000
+num_sent = 371,  input_symbol = 80
+the redundancy == 3.637500
+num_sent = 680,  input_symbol = 88
+the redundancy == 6.727273
+num_sent = 581,  input_symbol = 88
+the redundancy == 5.602273
+num_sent = 708,  input_symbol = 96
+the redundancy == 6.375000
+num_sent = 595,  input_symbol = 96
+the redundancy == 5.197917
+num_sent = 870,  input_symbol = 120
+the redundancy == 6.250000
+num_sent = 774,  input_symbol = 120
+the redundancy == 5.450000
+semi-random edition!!!!!!!!!!!!!!:
+num_sent = 40,  input_symbol = 40
+the redundancy == 0.000000
+num_sent = 48,  input_symbol = 40
+the redundancy == 0.200000
+num_sent = 87,  input_symbol = 80
+the redundancy == 0.087500
+num_sent = 94,  input_symbol = 80
+the redundancy == 0.175000
+num_sent = 98,  input_symbol = 88
+the redundancy == 0.113636
+num_sent = 94,  input_symbol = 88
+the redundancy == 0.068182
+num_sent = 115,  input_symbol = 96
+the redundancy == 0.197917
+num_sent = 115,  input_symbol = 96
+the redundancy == 0.197917
+num_sent = 133,  input_symbol = 120
+the redundancy == 0.108333
+num_sent = 155,  input_symbol = 120
+the redundancy == 0.291667
+num_sent = 896,  input_symbol = 120
+the redundancy == 6.466667
+num_sent = 799,  input_symbol = 120
+the redundancy == 5.658333
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 205,  input_symbol = 40
+the redundancy == 4.125000
+num_sent = 221,  input_symbol = 40
+the redundancy == 4.525000
+num_sent = 483,  input_symbol = 80
+the redundancy == 5.037500
+num_sent = 527,  input_symbol = 80
+the redundancy == 5.587500
+num_sent = 755,  input_symbol = 88
+the redundancy == 7.579545
+num_sent = 684,  input_symbol = 88
+the redundancy == 6.772727
+num_sent = 811,  input_symbol = 96
+the redundancy == 7.447917
+num_sent = 634,  input_symbol = 96
+the redundancy == 5.604167
+num_sent = 1050,  input_symbol = 120
+the redundancy == 7.750000
+num_sent = 810,  input_symbol = 120
+the redundancy == 5.750000
+semi-random edition!!!!!!!!!!!!!!:
+num_sent = 968,  input_symbol = 120
+the redundancy == 7.066667
+num_sent = 1123,  input_symbol = 120
+the redundancy == 8.358334
+num_sent = 1019,  input_symbol = 120
+the redundancy == 7.491667
+num_sent = 967,  input_symbol = 120
+the redundancy == 7.058333
+num_sent = 790,  input_symbol = 120
+the redundancy == 5.583333
+num_sent = 815,  input_symbol = 120
+the redundancy == 5.791667
+num_sent = 997,  input_symbol = 120
+the redundancy == 7.308333
+num_sent = 1091,  input_symbol = 120
+the redundancy == 8.091666
+num_sent = 852,  input_symbol = 120
+the redundancy == 6.100000
+num_sent = 1155,  input_symbol = 120
+the redundancy == 8.625000
+num_sent = 297,  input_symbol = 120
+the redundancy == 1.475000
+num_sent = 261,  input_symbol = 120
+the redundancy == 1.175000
+num_sent = 254,  input_symbol = 120
+the redundancy == 1.116667
+num_sent = 295,  input_symbol = 120
+the redundancy == 1.458333
+num_sent = 277,  input_symbol = 120
+the redundancy == 1.308333
+num_sent = 309,  input_symbol = 120
+the redundancy == 1.575000
+num_sent = 285,  input_symbol = 120
+the redundancy == 1.375000
+num_sent = 260,  input_symbol = 120
+the redundancy == 1.166667
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 80,  input_symbol = 40
+the redundancy == 1.000000
+num_sent = 163,  input_symbol = 80
+the redundancy == 1.037500
+num_sent = 185,  input_symbol = 88
+the redundancy == 1.102273
+num_sent = 212,  input_symbol = 96
+the redundancy == 1.208333
+num_sent = 310,  input_symbol = 120
+the redundancy == 1.583333
+semi-random edition!!!!!!!!!!!!!!:
+num_sent = 43,  input_symbol = 40
+the redundancy == 0.075000
+num_sent = 84,  input_symbol = 80
+the redundancy == 0.050000
+num_sent = 101,  input_symbol = 88
+the redundancy == 0.147727
+num_sent = 106,  input_symbol = 96
+the redundancy == 0.104167
+num_sent = 133,  input_symbol = 120
+the redundancy == 0.108333
+primary edition!!!!!!!!!!!!!!!!:
+num_sent = 58,  input_symbol = 40
+the redundancy == 0.450000
+num_sent = 165,  input_symbol = 80
+the redundancy == 1.062500
+num_sent = 193,  input_symbol = 88
+the redundancy == 1.193182
+num_sent = 178,  input_symbol = 96
+the redundancy == 0.854167
+num_sent = 271,  input_symbol = 120
+the redundancy == 1.258333
+semi-random edition!!!!!!!!!!!!!!:
+num_sent = 44,  input_symbol = 40
+the redundancy == 0.100000
+num_sent = 91,  input_symbol = 80
+the redundancy == 0.137500
+num_sent = 98,  input_symbol = 88
+the redundancy == 0.113636
+num_sent = 104,  input_symbol = 96
+the redundancy == 0.083333
+num_sent = 137,  input_symbol = 120
+the redundancy == 0.141667
